@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Muhammad%20Awais&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20App%20Developer&descAlignY=60&descSize=17" width="100%" alt="Muhammad Awais developer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Full%20Stack%20Developer&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Web%20%7C%20Mobile%20%7C%20Python%20Tools&descAlignY=58&descSize=18" width="100%" alt="Developer banner"/>
 
 # Hi, I'm Muhammad Awais 👋
 
